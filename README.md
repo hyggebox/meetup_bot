@@ -51,6 +51,3 @@ python manage.py start_bot
 python manage.py loaddata test_data.json
 ```
 
-## Пример реализации бота
-
-Демо бота: [@dev_meetup_bot](https://t.me/dev_meetup_bot) 
